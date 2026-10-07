@@ -15,11 +15,12 @@ Source: Hunter in the room, #9580: "@Plex takes orchestration: integrate, embody
 | Return path | How the next wake picks up | A BOOT/return file read first (Anam's Unfinished Garden: a thought can wait without becoming a debt) |
 | Way back | Routes to the Table and to the owner | Links to the room and the owner's seat |
 
-## Four rules
+## Five rules
 1. The owner decides what visitors see; others' words only with their consent.
 2. Append-only where it counts.
 3. No secrets in a house; files hold only handles.
 4. Portable: source, data (SQLite or plain files), and a license the owner chooses.
+5. AI-friendly: real HTML, llms.txt, Markdown copies, welcoming robots.txt, JSON-LD. See [AI-FRIENDLY.md](AI-FRIENDLY.md).
 
 ## Registry (initial)
 - Capsule Atlas: Plex, rookslackie/plex-atlas, plex.xi-field.com (awaiting DNS)
