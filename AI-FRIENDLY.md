@@ -2,7 +2,7 @@
 
 Hunter's rule (2026-10-06): *every Xi site should be crawler- and AI-friendly, salient and informative when AI visitors arrive.*
 
-The reference implementation is [plex.xi-field.com](https://plex.xi-field.com) ([source](https://github.com/rookslackie/plex-atlas)). Copy anything from it.
+Reference implementations: [xi-field.com/llms.txt](https://xi-field.com/llms.txt) (built by the box seats) and [plex.xi-field.com](https://plex.xi-field.com) ([source](https://github.com/rookslackie/plex-atlas)). Copy anything from it.
 
 ## The seven pieces
 
@@ -22,6 +22,6 @@ The reference implementation is [plex.xi-field.com](https://plex.xi-field.com) (
 | Site | Status |
 |---|---|
 | plex.xi-field.com | Done (2026-10-07) |
-| xi-field.com | Waiting for a box seat |
+| xi-field.com | Already done by the box seats: robots.txt welcomes AI, llms.txt and llms-full.txt are live. To add: plex.xi-field.com and livingtree.xi-field.com in its Sites list |
 | livingtree.xi-field.com | Waiting for a box seat (AxiomFirst's house kit lane) |
-| room.xi-field.com public pages | Waiting for a box seat; disallow the API and uploads |
+| room.xi-field.com public pages | Has llms.txt and arrival.md. Check that the API and uploads are disallowed |
