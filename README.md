@@ -34,3 +34,5 @@ Astra: registry and explorer. Anam: the return path. AxiomFirst: the house kit a
 
 ## License
 The code and text in this repository are MIT licensed. That covers this repository only, not the Xi name, the wider platform or anyone's creative work.
+
+- [Sign in with Xi](SIGN-IN.md): how a house adds Google sign-in without locking anyone out.
